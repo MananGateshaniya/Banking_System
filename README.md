@@ -20,3 +20,7 @@ This is a simple **Banking System web application** developed using **Core Java,
   - Frontend: HTML, CSS, Bootstrap, JSP
   - Backend: Core Java, JDBC
   - Database: MySQL
+
+## 🔗 Watch Project Demo
+
+👉 [Click here to watch the demo on LinkedIn »](https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_this-is-my-first-java-project-which-was-activity-7315382054299324417-uFtU?utm_source=share&utm_medium=member_desktop)
